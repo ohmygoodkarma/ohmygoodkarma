@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ohmygoodkarma/ohmygoodkarma/refs/heads/main/image.jpg" width="25%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=40&color=C3C3C3&width=1000&height=100&lines=Hello%2C+I'm+Karma+and+I'm+17+years+old." />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=40&color=C3C3C3&width=1000&height=100&lines=Hello%2C+I'm+Karma+and+I'm+17+years+old." width="70%"/>
 
 <br>
 <pre>
