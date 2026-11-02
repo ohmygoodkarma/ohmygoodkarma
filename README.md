@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ohmygoodkarma/ohmygoodkarma/refs/heads/main/image.jpg" width="25%" align="right" />
 
-<p style="font-family: 'Noto Sans', sans-serif; font-weight: 500; font-size: 80px; color: #C3C3C3; margin: 0;">
-  Hello, I'm Karma and I'm 17 years old.
+<p align="left">
+  <span style="font-size: 80px; color: #C3C3C3; font-weight: 500;">
+    Hello, I'm Karma and I'm 17 years old.
+  </span>
 </p>
 
 <br>
