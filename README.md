@@ -4,12 +4,8 @@
 <p style="font-family: 'Noto Sans', sans-serif; font-weight: 500; font-size: 80px; color: #C3C3C3; margin: 0;">
   Hello, I'm Karma and I'm 17 years old.
 </p>
-<p style="font-family: 'Noto Sans', sans-serif; font-weight: 500; font-size: 60px; color: #C3C3C3; margin-top: 10px;">
-  Also known as Kiraii
-</p>
 
 <br>
-
 <pre>
     💼 Docker • C# • C++ • TypeScript/JavaScript
     🎵 Music • Anime
