@@ -7,6 +7,5 @@
 <pre>
     💼 Docker • C# • C++ • TypeScript/JavaScript
     🎵 Music • Anime
-    🇨🇳 我们绝不监控用户
 </pre>
 </div>
