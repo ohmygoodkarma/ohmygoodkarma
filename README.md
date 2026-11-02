@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ohmygoodkarma/ohmygoodkarma/refs/heads/main/image.jpg" width="25%" align="right" />
 
-<h1 style="font-family: 'Noto Sans', sans-serif; font-weight: 500; font-size: 80px; color: #C3C3C3; margin: 0;">
+<p style="font-family: 'Noto Sans', sans-serif; font-weight: 500; font-size: 80px; color: #C3C3C3; margin: 0;">
   Hello, I'm Karma and I'm 17 years old.
-</h1>
-<h2 style="font-family: 'Noto Sans', sans-serif; font-weight: 500; font-size: 60px; color: #C3C3C3; margin-top: 10px;">
+</p>
+<p style="font-family: 'Noto Sans', sans-serif; font-weight: 500; font-size: 60px; color: #C3C3C3; margin-top: 10px;">
   Also known as Kiraii
-</h2>
+</p>
 
 <br>
 
