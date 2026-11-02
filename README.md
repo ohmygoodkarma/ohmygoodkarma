@@ -9,7 +9,7 @@
     🎵 Music • Anime
 </pre>
 <br>
-![GitHub followers](https://img.shields.io/github/followers/ohmygoodkarma?style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/ohmygoodkarma?style=for-the-badge)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ohmygoodkarma?style=for-the-badge">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ohmygoodkarma?style=for-the-badge">
 
 </div>
