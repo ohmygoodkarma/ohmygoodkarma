@@ -8,4 +8,8 @@
     💼 Docker • C# • C++ • TypeScript/JavaScript
     🎵 Music • Anime
 </pre>
+<br>
+![GitHub followers](https://img.shields.io/github/followers/ohmygoodkarma?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/ohmygoodkarma?style=for-the-badge)
+
 </div>
